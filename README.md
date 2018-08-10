@@ -26,13 +26,36 @@ cetera adit, finita, aera. Sit dat nymphas una eramque iamque.
 | Computer  | $1600 |
 | Phone     |   $12 |
 
-|:- Header -:|:- Header -:|
-|   Row      |   Row      |
-|   Row      |   Row      |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
-#.  one
-#.  two
-#.  three
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+## Formatting Content within your table
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
+## Align Text 
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+## Including special characters
+
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
 
 ## Utve haut Orionis tuae
 
