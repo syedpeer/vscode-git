@@ -5,6 +5,6 @@ Simple repo to help you learn Git inside of VSCode.
 Always use the best information available at the moment
 
 ## Disclaimer
-Never agree toall terms
+Never agree to all terms
 
 This is just common sense when working with clients
