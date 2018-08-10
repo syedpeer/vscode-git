@@ -21,10 +21,14 @@ cetera adit, finita, aera. Sit dat nymphas una eramque iamque.
     + sub-item 2 
         - sub-sub-item 1
 
- | Item      | Value |
- | --------- | -----:|
- | Computer  | $1600 |
- | Phone     |   $12 |
+| Item      | Value |
+| --------- | -----:|
+| Computer  | $1600 |
+| Phone     |   $12 |
+
+|:- Header -:|:- Header -:|
+|   Row      |   Row      |
+|   Row      |   Row      |
 
 #.  one
 #.  two
