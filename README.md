@@ -6,3 +6,5 @@ Always use the best information available at the moment
 
 ## Disclaimer
 Never agree toall terms
+
+This is just common sense when working with clients
